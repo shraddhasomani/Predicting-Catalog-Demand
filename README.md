@@ -38,8 +38,9 @@ p1-mailinglist.xlsx –
   - Score_No: The probability that the customer WILL NOT respond to the catalog and not make a purchase
   - Score_Yes: The probability that the customer WILL respond to the catalog and make a purchase.
 
-We want to calculate the expected revenue from these 250 people in order to get expected profit
 
-This means we need to multiply the probability that a person will buy our catalog as well
-
-For example, if a customer were to buy from us, we predict this customer will buy $450 worth of products. At a 30% chance that this person will actually buy from us, we can expect revenue to be $450 x 30% = $135.
+### Final Steps
+- We want to calculate the expected revenue from these 250 people in order to get expected profit
+- This means we need to multiply the probability that a person will buy our catalog as well
+- For example, if a customer were to buy from us, we predict this customer will buy $450 worth of products
+- At a 30% chance that this person will actually buy from us, we can expect revenue to be $450 x 30% = $135
